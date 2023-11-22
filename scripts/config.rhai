@@ -1,4 +1,4 @@
-let titles_type = ["Dataset", "Survey", "Review", "Overview"];
+let titles_type = ["Survey", "Review", "Overview"];
 let titles_model = ["BERT", "GPT", "Transformer", "LLM", "LLaMA"];
 let titles_method = ["Multi-modal", "Multimodal", "Chart", "chart", "GUI", "navigation"];
 let titles =  titles_model + titles_method + titles_type;
