@@ -1,6 +1,6 @@
 let titles_type = []; //["Survey", "Review", "Overview"];
-let titles_model = ["Agent" , "VLM"];
-let titles_method = ["Multi-modal", "Multimodal", "Chart", "GUI", "navigation", "Doc", "document", "resolution", "OCR", "Visual Grounding", "REC"];
+let titles_model = ["Foundation" , "VLM"];
+let titles_method = ["Multi-modal", "Multimodal", "multimodal", "Generation", "Understanding", "Generative", "Pretrain"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Ping Luo", "Quanfeng Lu", "Pengfei Liu", "Wenqi Shao"];
 
