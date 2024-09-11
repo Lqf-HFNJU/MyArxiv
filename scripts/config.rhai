@@ -1,8 +1,8 @@
 let titles_type = []; //["Survey", "Review", "Overview"];
-let titles_model = ["Foundation" , "VLM"];
+let titles_model = ["Foundation" , "VLM", "Mamba", "vision-language", "Vision-Language", "VLM", "LVM", "State Space"];
 let titles_method = ["Multi-modal", "Multimodal", "multimodal", "Generation", "Understanding", "Generative", "Pretrain"];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Ping Luo", "Quanfeng Lu", "Pengfei Liu", "Wenqi Shao"];
+let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Ping Luo", "Quanfeng Lu", "Pengfei Liu", "Wenqi Shao", "Shoufa Chen", "Enze Xie", "Peize Sun"];
 
 let conferences = [
     // AI
